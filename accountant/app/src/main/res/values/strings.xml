@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">accountant</string>
+    <string-array name="timelist">
+        <item>00:00</item>
+        <item>00:05</item>
+        <item>00:10</item>
+        <item>00:15</item>
+        <item>00:20</item>
+        <item>00:25</item>
+        <item>00:30</item>
+        <item>00:35</item>
+        <item>00:40</item>
+        <item>00:45</item>
+        <item>00:50</item>
+        <item>00:55</item>
+        <item>01:00</item>
+        <item>01:05</item>
+        <item>01:10</item>
+        <item>01:15</item>
+        <item>01:20</item>
+        <item>01:25</item>
+        <item>01:30</item>
+        <item>01:35</item>
+        <item>01:40</item>
+        <item>01:45</item>
+        <item>01:50</item>
+        <item>01:55</item>
+        <item>02:00</item>
+        <item>02:05</item>
+        <item>02:10</item>
+        <item>02:15</item>
+        <item>02:20</item>
+        <item>02:25</item>
+        <item>02:30</item>
+        <item>02:35</item>
+        <item>02:40</item>
+        <item>02:45</item>
+        <item>02:50</item>
+        <item>02:55</item>
+        <item>03:00</item>
+        <item>03:05</item>
+        <item>03:10</item>
+        <item>03:15</item>
+        <item>03:20</item>
+        <item>03:25</item>
+        <item>03:30</item>
+        <item>03:35</item>
+        <item>03:40</item>
+        <item>03:45</item>
+        <item>03:50</item>
+        <item>03:55</item>
+        <item>04:00</item>
+    </string-array>
+</resources>
